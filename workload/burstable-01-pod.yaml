@@ -5,7 +5,7 @@ metadata:
     app: burstable
   name: burstable
 spec:
-  nodeName: gke-cluster-1-default-pool-fea82791-2jdj
+  nodeName: gke-cluster-1-default-pool-6a8d6701-vnl6
   containers:
   - image: sckmkny/hello-threads-java:0.1.0
     name: workload
@@ -15,4 +15,4 @@ spec:
     resources:
       requests:
         cpu: 200m
-        memory: 200Mi
+        memory: 500Mi

@@ -5,7 +5,7 @@ metadata:
     app: load-besteffort
   name: load-besteffort
 spec:
-  nodeName: gke-cluster-1-default-pool-fea82791-5brq
+  nodeName: gke-cluster-1-default-pool-6a8d6701-5fqz
   containers:
   - image: qarlm/ghz
     name: load

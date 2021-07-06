@@ -5,7 +5,7 @@ metadata:
     app: load-guaranteed
   name: load-guaranteed
 spec:
-  nodeName: gke-cluster-1-default-pool-fea82791-v0rh
+  nodeName: gke-cluster-1-default-pool-6a8d6701-sf9f
   containers:
   - image: qarlm/ghz
     name: load
